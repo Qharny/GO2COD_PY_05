@@ -27,8 +27,8 @@ This Hangman game provides a graphical user interface where players can guess le
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tkinter-hangman.git
-   cd tkinter-hangman
+   git clone https://github.com/qharny/GO2COD_PY_05.git
+   cd GO2COD_PY_05
    ```
 
 2. No additional dependencies required!
@@ -37,7 +37,7 @@ This Hangman game provides a graphical user interface where players can guess le
 
 1. Run the script:
    ```bash
-   python hangman_game.py
+   python main.py
    ```
 
 2. Game Rules:
@@ -68,28 +68,18 @@ word_list = [
 ### Attempts
 Change the `max_attempts` parameter to adjust difficulty:
 ```python
-game = HangmanGame(max_attempts=5)  # Reduce or increase attempts
+game = HangmanGame(max_attempts=5)  
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🎈 Acknowledgments
 
 - Inspired by the classic Hangman word-guessing game
 - Built with Python and Tkinter
+- Thanks for GO2COD for the internship oppoturnity
 
 ## 📞 Contact
 
-Your Name - your.email@example.com
+Your Name - kabuteymanasseh5@gmail.com
 
-Project Link: [https://github.com/yourusername/tkinter-hangman](https://github.com/yourusername/tkinter-hangman)
+Project Link: [https://github.com/qharny/GO2COD_PY_05](https://github.com/qharny/GO2COD_PY_05)
